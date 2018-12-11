@@ -1,0 +1,10 @@
+L 12 cuadernos
+V 3 plumas
+J 7 lapices
+J 8 plumas
+V 4 cuadernos
+V 2 plumas
+V 14 lapices
+L 7 cuadernos
+J 3 cuadernos
+L 1 cuaderno
